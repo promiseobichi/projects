@@ -1,0 +1,290 @@
+{ "Data" : [
+{
+  "Country or Area": "Algeria",
+  "Year": 2015,
+  "Value": 1178.47998,
+  "Value Footnotes": 1.0,
+  "Unit": "million cubic metres"
+},
+{
+  "Country or Area": "Algeria",
+  "Year": 2014,
+  "Value": 1124.699951,
+  "Value Footnotes": 1.0,
+  "Unit": "million cubic metres"
+},
+{
+"Country or Area": "Algeria",
+"Year": 2012,
+"Value": 2130.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Algeria",
+"Year": 2011,
+"Value": 2115.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Algeria",
+"Year": 2010,
+"Value": 2100.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Botswana",
+"Year": 2015,
+"Value": 41.20000076,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Botswana",
+"Year": 2014,
+"Value": 40.79999924,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Botswana",
+"Year": 2013,
+"Value": 37.90000153,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Botswana",
+"Year": 2012,
+"Value": 38.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Botswana",
+"Year": 2011,
+"Value": 37.20000076,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Botswana",
+"Year": 2010,
+"Value": 38.79999924,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Malaysia",
+"Year": 2015,
+"Value": 2327.983398,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Malaysia",
+"Year": 2014,
+"Value": 2287.443115,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Malaysia",
+"Year": 2013,
+"Value": 2213.529297,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Malaysia",
+"Year": 2012,
+"Value": 2144.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Malaysia",
+"Year": 2011,
+"Value": 2079.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Malaysia",
+"Year": 2010,
+"Value": 2045.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mali",
+"Year": 2015,
+"Value": 73.35392761,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mali",
+"Year": 2014,
+"Value": 69.75556183,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mali",
+"Year": 2013,
+"Value": 67.32816315,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mali",
+"Year": 2012,
+"Value": 66.83753967,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mali",
+"Year": 2011,
+"Value": 71.54295349,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mali",
+"Year": 2010,
+"Value": 61.81489182,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Martinique",
+"Year": 2013,
+"Value": 27.95323563,
+"Value Footnotes": 2.0,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Martinique",
+"Year": 2012,
+"Value": 28.49000359,
+"Value Footnotes": 2.0,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mauritius",
+"Year": 2015,
+"Value": 75.09999847,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mauritius",
+"Year": 2014,
+"Value": 74.19999695,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mauritius",
+"Year": 2013,
+"Value": 73.40000153,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mauritius",
+"Year": 2012,
+"Value": 72.90000153,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mauritius",
+"Year": 2011,
+"Value": 73.59999847,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Mauritius",
+"Year": 2010,
+"Value": 76.5,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Niger",
+"Year": 2012,
+"Value": 31.30699921,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Niger",
+"Year": 2011,
+"Value": 29.37700081,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Niger",
+"Year": 2010,
+"Value": 27.22800064,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Nigeria",
+"Year": 2010,
+"Value": 2629.76001,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Rwanda",
+"Year": 2012,
+"Value": 18.39999962,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Rwanda",
+"Year": 2011,
+"Value": 17.5,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "Rwanda",
+"Year": 2010,
+"Value": 17.70000076,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "South Africa",
+"Year": 2012,
+"Value": 3955.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "South Africa",
+"Year": 2011,
+"Value": 3774.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+},
+{
+"Country or Area": "South Africa",
+"Year": 2010,
+"Value": 3744.0,
+"Value Footnotes": null,
+"Unit": "million cubic metres"
+}
+]
+}
